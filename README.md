@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir Vahedi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue3
+- 🌱 I’m currently learning more and more about Next.JS and TypeScript
 - 💞️ I’m looking to collaborate on Backend and Frontend web projects
 - 📫 Mail me for collaboration: AmirVahedix@gmail.com
