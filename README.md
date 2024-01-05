@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir Vahedi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning more and more about Next.JS and TypeScript
-- 💞️ I’m looking to collaborate on Backend and Frontend web projects
+- 👀 Full-Stack Developer
+- 🌱 Interested in Laravel, React, NextJS, TypeScript and Python
+- 💞️ I’m looking to collaborate on Backend and Frontend projects
 - 📫 Mail me for collaboration: AmirVahedix@gmail.com
