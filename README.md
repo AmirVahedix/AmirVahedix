@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir Vahedi
-- 👀 Full-Stack Developer
-- 🌱 Interested in Laravel, React, NextJS, TypeScript and Python
-- 💞️ I’m looking to collaborate on Backend and Frontend projects
+- 👀 Backend Developer - Interested in Machime Learning
+- 🌱 My TechStack: PHP/Laravel, Python
+- 💞️ I’m looking to collaborate on Backend & ML/DL projects (especially MedicalAI)
 - 📫 Mail me for collaboration: AmirVahedix@gmail.com
